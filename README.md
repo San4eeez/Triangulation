@@ -1,5 +1,6 @@
 # Triangulation
  ![Пример использования](https://c.tenor.com/9dkJ7fR3ZBQAAAAd/tenor.gif)
+![](https://img.shields.io/badge/pandas)
 
 
 Triangulation — это инструмент для визуализации и расчета координат устройства на основе данных от трех башен (триангуляция). Проект написан на Python с использованием библиотеки Tkinter для создания графического интерфейса.
